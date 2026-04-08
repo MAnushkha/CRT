@@ -5,5 +5,5 @@ def Reverse_String(s: str) -> str:
    return rev
 
 if __name__ == '__main__':
-    s = input()
+    s = input() 
     print(Reverse_String(s))

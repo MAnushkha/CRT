@@ -1,16 +1,19 @@
-# Reverse Number
+# Right Triangle Pattern
 
 
 ## Problem Statement
-Write a function reverse_number(n: int) -> int that returns the reversed number.
+Write a function right_triangle(n: int) -> str that returns the star pattern.
 
 ### Example
 Input: 
-123
+5
 
-Output: 
-321 
-
+Output:
+*
+**
+***
+****
+*****
 
 ## Instructions
 1. Write your solution in `task.py`
