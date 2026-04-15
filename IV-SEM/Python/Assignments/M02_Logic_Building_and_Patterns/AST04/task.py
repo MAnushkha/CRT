@@ -4,5 +4,5 @@ def right_triangle(n: int) -> str:
      result += "*" * i + "\n"
   return result.strip()
 if __name__ == "__main__":
-    n = int(input())
-    print(right_triangle(n))
+  n = int(input())
+  print(right_triangle(n))
