@@ -1,4 +1,5 @@
 def reverse_number(n: int) -> int:
+    
     reversed_num = 0 
     while n != 0:
         digit = n % 10 

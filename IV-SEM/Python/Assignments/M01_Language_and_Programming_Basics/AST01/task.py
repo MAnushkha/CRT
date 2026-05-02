@@ -1,5 +1,4 @@
 def Ticket_Pricing(n: int) -> int:
-   #task
    if n < 5:
         return 0
    elif n <= 17:

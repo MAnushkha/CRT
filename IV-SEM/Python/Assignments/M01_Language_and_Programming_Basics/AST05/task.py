@@ -2,6 +2,7 @@ from typing import List
 
 
 def Collatz_Sequence(n: int)-> List:
+   
    seq = [n]
    while n != 1:
      if n % 2 == 0:

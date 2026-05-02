@@ -26,8 +26,9 @@ while N > 0:
         odd += 1
     N //= 10
 print(even, odd)  
-'''
+
 N = int(input())
 while N > 9:
     N = sum(map(int, str(N)))
 print(N)
+'''
